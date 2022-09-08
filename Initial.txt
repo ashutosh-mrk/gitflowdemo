@@ -2,3 +2,5 @@ Hello Ashutosh
 Added 2nd commit
 Added new feature
 added another feature
+my new release
+my new release updated
